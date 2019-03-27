@@ -1,7 +1,9 @@
 <?php
 
-$email = "lutfiainun32@gmail.com";
+//Email 
+$email = "xxxxxxxxxxxx@gmail.com";
 
-$deviceid = "ff2f7dbf-4caa-4dc4-99ed-541abc92633a";
+//Device ID
+$deviceid = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 ?>
